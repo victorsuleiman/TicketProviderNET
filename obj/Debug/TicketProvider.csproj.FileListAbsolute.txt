@@ -1,0 +1,11 @@
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 6\TicketProvider\bin\Debug\TicketProvider.exe.config
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 6\TicketProvider\bin\Debug\TicketProvider.exe
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 6\TicketProvider\bin\Debug\TicketProvider.pdb
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 6\TicketProvider\obj\Debug\TicketProvider.csprojAssemblyReference.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 6\TicketProvider\obj\Debug\TicketProvider.FormOptions.resources
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 6\TicketProvider\obj\Debug\TicketProvider.frmTickets.resources
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 6\TicketProvider\obj\Debug\TicketProvider.Properties.Resources.resources
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 6\TicketProvider\obj\Debug\TicketProvider.csproj.GenerateResource.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 6\TicketProvider\obj\Debug\TicketProvider.csproj.CoreCompileInputs.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 6\TicketProvider\obj\Debug\TicketProvider.exe
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 6\TicketProvider\obj\Debug\TicketProvider.pdb
